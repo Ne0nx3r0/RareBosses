@@ -1,0 +1,65 @@
+dungeonWorld: dw1
+areas:
+  overworld:
+    exampleOverworldArea:
+      entrances:
+        name1:
+          min: x,y,z
+          max: x,y,z
+        name2:
+          min: x,y,z
+          max: x,y,z
+      exits:
+        name1:
+          min: x,y,z
+          max: x,y,z
+        name2:
+          min: x,y,z
+          max: x,y,z
+      spawns:
+        name1:
+          min: x,y,z
+          max: x,y,z
+        name2:
+          min: x,y,z
+          max: x,y,z
+  dungeon:
+    exampleDungeonArea:
+      entrances:
+        name1:
+          min: x,y,z
+          max: x,y,z
+        name2:
+          min: x,y,z
+          max: x,y,z
+      exits:
+        name1:
+          min: x,y,z
+          max: x,y,z
+        name2:
+          min: x,y,z
+          max: x,y,z
+      spawns:
+        name1:
+          min: x,y,z
+          max: x,y,z
+        name2:
+          min: x,y,z
+          max: x,y,z
+  boss:
+    exampleBossArea:
+      entrances:
+        name1:
+          min: x,y,z
+          max: x,y,z
+      exits:
+        name1:
+          min: x,y,z
+          max: x,y,z
+      spawns:
+        name1:
+          min: x,y,z
+          max: x,y,z
+      bossSpawn:
+          min: x,y,z
+          max: x,y,z
